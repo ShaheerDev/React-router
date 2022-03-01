@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-router/static/css/main.e6c13ad2.css",
+    "main.js": "/React-router/static/js/main.3b169c0a.js",
+    "static/js/787.55896a7c.chunk.js": "/React-router/static/js/787.55896a7c.chunk.js",
+    "static/media/car.jpg": "/React-router/static/media/car.f825d2794191be94c49b.jpg",
+    "static/media/footer_b.png": "/React-router/static/media/footer_b.91fba2f9c0aac5c33c6d.png",
+    "static/media/footer_a.png": "/React-router/static/media/footer_a.e94a80856cc0cb492938.png",
+    "index.html": "/React-router/index.html",
+    "main.e6c13ad2.css.map": "/React-router/static/css/main.e6c13ad2.css.map",
+    "main.3b169c0a.js.map": "/React-router/static/js/main.3b169c0a.js.map",
+    "787.55896a7c.chunk.js.map": "/React-router/static/js/787.55896a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b169c0a.js"
+  ]
+}
